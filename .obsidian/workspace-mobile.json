@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "3b438336d1cb06aa",
+    "id": "edec7d1b00ccd671",
     "type": "split",
     "children": [
       {
-        "id": "9988c1bfca2301fa",
+        "id": "2286679f120e070a",
         "type": "tabs",
         "children": [
           {
-            "id": "e80a0bfd612134b9",
+            "id": "2ab1f814cf4e0543",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "23edf2eeedb00d15",
+    "id": "b756d62bb056864b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "54338adc610cfb75",
+        "id": "406fc7751536d9ca",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -46,7 +46,7 @@
         }
       },
       {
-        "id": "6090d6d69cc3da1c",
+        "id": "962ea64a28e85b4c",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +63,7 @@
         }
       },
       {
-        "id": "b52ed89f1580a1cd",
+        "id": "e82c8ab520c49041",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -78,7 +78,7 @@
         }
       },
       {
-        "id": "3dd986f7ce3420ac",
+        "id": "1c61a9f6b167614e",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -92,7 +92,7 @@
         }
       },
       {
-        "id": "fa31cef16bc90cfe",
+        "id": "e8ff729103841e29",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -108,11 +108,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "ec4baeedf4c37462",
+    "id": "6f7fe62b802f5538",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "e13b5b03c52c7ed7",
+        "id": "5f9aba023731dd80",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -131,7 +131,7 @@
         }
       },
       {
-        "id": "71355d84cd202c2d",
+        "id": "0180f84045a7034f",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -145,7 +145,7 @@
         }
       },
       {
-        "id": "a7dc54e373de1c3c",
+        "id": "4caf6eb44d0b004b",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -173,12 +173,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e80a0bfd612134b9",
+  "active": "2ab1f814cf4e0543",
   "lastOpenFiles": [
     "topics/曾国藩.md",
-    "books/曾国藩家书.md",
-    "README.md",
     "topics",
+    "README.md",
+    "books/曾国藩家书.md",
     "books"
   ]
 }
